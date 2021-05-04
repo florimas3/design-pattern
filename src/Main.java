@@ -20,5 +20,6 @@ public class Main {
 
         //call draw method of square
         shape3.draw();
+
     }
 }
